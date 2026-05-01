@@ -1,0 +1,4 @@
+id,text,label
+1,"I love this product!",positive
+2,"This is the worst experience ever.",negative
+3,"Not sure how I feel about this.",neutral

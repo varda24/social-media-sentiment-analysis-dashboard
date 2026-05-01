@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay
 
-from preprocess import clean_text
+from src.preprocess import clean_text
 
 def load_data(path):
     df = pd.read_csv(path, header=None)

@@ -3,7 +3,7 @@ import io
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from predict import predict_sentiment
+from src.predict import predict_sentiment
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(

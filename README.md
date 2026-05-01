@@ -1,5 +1,9 @@
 # 📊 Social Media Sentiment Analysis Dashboard
 
+## 🚀 Live Demo
+🔗 https://social-media-sentiment-analysis-dashboard-xq5nirtqbjwez4vuzk4e.streamlit.app/
+
+
 ## 🚀 Overview
 
 This project is a complete **end-to-end Sentiment Analysis System** that analyzes social media text data and classifies it into:

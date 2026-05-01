@@ -100,7 +100,7 @@ Social-Media-Sentiment-Analysis-Dashboard/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/social-media-sentiment-analysis-dashboard.git
+git clone https://github.com/Varda24/social-media-sentiment-analysis-dashboard.git
 cd social-media-sentiment-analysis-dashboard
 
 python -m venv venv
@@ -178,10 +178,13 @@ streamlit run app/app.py
 
 ## 🔮 Future Improvements
 
-- Real-time Twitter API integration
-- Deep learning models (BERT)
-- Cloud deployment (Streamlit Cloud / AWS)
-- User authentication system
+## 🔮 Future Improvements
+
+- Integrate real-time data using Twitter/X API or Reddit API  
+- Upgrade model using transformer-based architectures (BERT) for better accuracy  
+- Add time-series sentiment tracking for trend analysis  
+- Deploy with user authentication and role-based access  
+- Optimize performance for large-scale streaming data
 
 ---
 
